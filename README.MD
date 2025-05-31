@@ -79,7 +79,7 @@
 1. Для Windows-планировщика создайте .bat файл:
    ```bat
       @echo off
-      cd /d "C:\Users\Nikita\PycharmProjects\db_backup_project"
+      cd /d "путь к проекту"
       call .venv\Scripts\activate
       python main.py
    ```
