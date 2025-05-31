@@ -12,7 +12,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-репозиторий/db_backup_project.git
+   git clone https://github.com/shrimp151/db_backup_project.git
    cd db_backup_project
 2. Установите зависимости:
     ```bash
