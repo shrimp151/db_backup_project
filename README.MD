@@ -71,7 +71,7 @@
    ```
 2. Востановите БД:
    ```bash
-   psql -U postgres -d ваша_база -f restored.sql
+   psql -U postgres -d ваша_база -f restored_bakup.sql
    ```
    
 ## 🕒 Автоматизация
