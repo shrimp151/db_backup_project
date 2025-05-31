@@ -33,7 +33,7 @@ def decrypt_file(encrypted_file, private_key_path, output_file):
 
 
 decrypt_file(
-    "backups/company_backup_20250531_201559.sql.enc",
+    "backups/company_backup_20250531_201559.sql.enc", #выберите нужный файл для дешефрации
     "keys/private_key.pem",
-    "restored_backup.sql"
+    "restored_backup.sql"                                #выберите путь, куда создатся расшифрованный файл
 )
